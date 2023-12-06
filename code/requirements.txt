@@ -1,0 +1,11 @@
+pandas == 1.4.4
+numpy == 1.23.5
+pip == 23.0.1
+streamlit
+joblib
+keras
+tensorflow
+bayesian-optimization
+scikit-learn
+path
+pathlib
